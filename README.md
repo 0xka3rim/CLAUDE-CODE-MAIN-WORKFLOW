@@ -1,9 +1,9 @@
 # CLAUDE-CODE-MAIN-WORKFLOW
 All Claude Code Main Workflows and detailed Prompts and Criteria 
 
-# ✨ OpenCode AI Skills Collection
+# ✨ Claude Code AI Skills Collection
 
-Welcome to the OpenCode AI Skills Collection. Think of this repository as the ultimate playbook for your AI. It provides professional, ready-to-use frameworks that teach your agents how to smartly build software and ruthlessly test it. 
+Welcome to the Claude Code AI Skills Collection. Think of this repository as the ultimate playbook for your AI. It provides professional, ready-to-use frameworks that teach your agents how to smartly build software and ruthlessly test it. 
 
 ---
 
